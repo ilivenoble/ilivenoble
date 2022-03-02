@@ -1,13 +1,15 @@
 ### Hi there 👋
 
-I am a currently working in the logistics and haulage industry but make out time each day to learn Front End Concepts.
-I am passionate about learning and working hard to become a world class developer.
+I am currently working in the logistics and haulage industry but make out time each day to learn Front End Concepts.
 
-I am currently learning Javascript and React JS on Scrimba and I challenge myself to solidify concepts I learn by solving challenges on Frontendmentor.io
+I am passionate about learning and working hard to become a world-class developer.
 
-I am open for Front End Internships and entry roles.
+I am currently learning Javascript and React JS on Scrimba, and I challenge myself to solidify concepts I learn by solving challenges on Frontendmentor.io
+
+I am open for Front-end development Internships and entry roles.
 
 Thanks for checking out my profile.
+
 <!--
 **ilivenoble/ilivenoble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
