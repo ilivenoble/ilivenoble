@@ -1,12 +1,7 @@
 ### Hi there 👋
+I am frontend developer with a passion for creating responsive, accesible and functional web applications.
 
-I am currently working in the logistics and haulage industry but make out time each day to learn Front End Concepts.
-
-I am passionate about learning and I am working hard to become a world-class developer.
-
-I am currently learning Javascript and React JS on Scrimba, and I challenge myself to solidify concepts I learn by solving challenges on Frontendmentor.io
-
-I am open for Front-end development Internships and entry roles.
+I am open for Frontend Internships and junior roles.
 
 Thanks for checking out my profile.
 
