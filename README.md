@@ -1,9 +1,9 @@
 ### Hi there 👋
-I am frontend developer with a passion for creating responsive, accesible and functional web applications.
+Glad you are checking me out.
 
-I am open for Frontend Internships and junior roles.
+My day-to-day job involves deploying and managing resources in the cloud (Azure). In addition, I provide support to Microsoft customers hosting their apps using the App service and the Azure container app platform.
 
-Thanks for checking out my profile.
+Feel free to connect with me!
 
 <!--
 **ilivenoble/ilivenoble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
