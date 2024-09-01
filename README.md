@@ -1,7 +1,7 @@
 ### Hi there 👋
 Glad you are checking me out.
 
-My day-to-day job involves deploying and managing resources in the cloud (Azure). In addition, I provide support to Microsoft customers hosting their applications using the Azure App Service and the Azure Container App platform.
+My day-to-day job involves deploying and managing resources in the cloud (Azure). In addition, I provide support to Microsoft customers hosting their applications using the Azure App Service and the Azure Container App platforms.
 
 Feel free to connect with me!
 
